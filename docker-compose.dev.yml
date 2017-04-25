@@ -1,0 +1,6 @@
+
+# Override pre-built images with build locations
+plex:
+  build: plexemail/
+samba-server:
+  build: samba-server/
